@@ -44,7 +44,7 @@ Depois de verificar diferentes hipóteses entramos na preparação dos dados par
   <figcaption>Figura 3. Previsão do modelo.</figcaption>
 </figure>
 
-o notebook com todas as etapas está [aqui]()
+o notebook com todas as etapas está [aqui](https://github.com/fhfraga/houses_to_rent/blob/master/houses_to_rent.ipynb)
 
 ## Conclusão
 Podemos concluir que o modelo faz previsões, porém pode se melhorar. As formas de melhores é:
